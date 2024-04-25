@@ -19,6 +19,8 @@
     padding: 10%;
  }
 
+/* navbar buttons*/
+
  .navbar ul {
     list-style-type: none;
     margin: 0;
@@ -36,4 +38,8 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+.navbtns{
+    padding-left: 40%;
 }
