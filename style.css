@@ -19,8 +19,6 @@
     padding: 10%;
  }
 
-
- /*nav links*/
  .navbar ul {
     list-style-type: none;
     margin: 0;
@@ -38,9 +36,4 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-#navbuttons{
-    display: flex;
-    justify-content: flex-end; /* Plaats items aan de rechterkant */
 }
